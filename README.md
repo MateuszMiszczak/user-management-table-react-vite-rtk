@@ -1,6 +1,11 @@
-# User Management Table - React, TypeScript and RTK: Mateusz Miszczak
+# User Management Table - React, TypeScript and RTK: Mateusz Miszczak https://user-management-table-mthwmiszczak.netlify.app/
 
-## Objective & Requirements
+## Usage and installation
+
+- **npm i** - `installing packages`
+- **npm run dev** - `running dev mode`
+
+## Objectives & Requirements
 
 ### 1. Building a User Management Table
 
